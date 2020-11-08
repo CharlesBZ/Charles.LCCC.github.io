@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\lccc 2020\intro to comp structured programming c++\invoice\invoice\main.cpp(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\lccc 2020\intro to comp structured programming c++\invoice\invoice\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Invoice.vcxproj -> E:\LCCC 2020\Intro to Comp Structured Programming C++\Invoice\Debug\Invoice.exe
