@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\lccc 2020\summer 2020\data structures\programming exercise 17-5\programming exercise 17-5\main.cpp(13): warning C4018: '<': signed/unsigned mismatch
+e:\lccc 2020\summer 2020\data structures\programming exercise 17-5\programming exercise 17-5\main.cpp(25): warning C4018: '<': signed/unsigned mismatch
+e:\lccc 2020\summer 2020\data structures\programming exercise 17-5\programming exercise 17-5\main.cpp(27): warning C4804: '*=': unsafe use of type 'bool' in operation
+  Programming Exercise 17-5.vcxproj -> E:\LCCC 2020\Summer 2020\Data Structures\Programming Exercise 17-5\Debug\Programming Exercise 17-5.exe
