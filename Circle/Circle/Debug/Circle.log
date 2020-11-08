@@ -1,0 +1,3 @@
+﻿  Main.cpp
+e:\lccc 2020\intro to comp structured programming c++\circle\circle\main.cpp(7): error C2864: 'circle::pi': a static data member with an in-class initializer must have non-volatile const integral type or be specified as 'inline'
+  e:\lccc 2020\intro to comp structured programming c++\circle\circle\main.cpp(7): note: type is 'const double'
